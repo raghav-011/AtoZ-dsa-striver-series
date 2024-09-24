@@ -70,6 +70,7 @@ ex:-
 
 
 5. Switch:- The switch statement is an alternative to the if-else-if ladder when checking the same variable against multiple possible values.
+switch statements use when you have a single variable to compare against multiple distinct values. 
 ex:- 
 int day = 5;
 switch (day) {
